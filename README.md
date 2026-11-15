@@ -8,4 +8,4 @@ An exploratory data analysis (EDA) project and interactive Streamlit dashboard a
 3. Investing in mobile app features and customer retention programs yields the highest revenue impact.
 
 ## Live App
-[View Live Streamlit Dashboard](YOUR_STREAMLIT_APP_LINK)
+[View Live Streamlit Dashboard](https://ecommerce-customer-eda-nthcaeuaqwc3qx3utqemxs.streamlit.app/)
